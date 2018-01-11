@@ -1,4 +1,4 @@
-# Practicando-codigo
-Practicando lo aprendido sobre Git y Github
+# invie
+Las guitarras más locas
 
-Creado por: Esteban Brito! @platzi
+http://leonidasesteban.github.io/invie-responsive/
